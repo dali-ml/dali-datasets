@@ -1,0 +1,6 @@
+# Downloaded Datasets #
+#######################
+*.ans
+*.tsv
+mc_test.txt
+mc_train.txt
